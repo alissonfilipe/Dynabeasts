@@ -5,7 +5,7 @@
 ## **Características Principais**
 
 - **Mecânicas Baseadas em Fatores Físicos**  
-  Em **Pokémon: Dynamics**, o **HP** e o **ataque** de cada Pokémon são calculados com base no **peso** e **tamanho** do Pokémon. Pokémon mais pesados terão maior resistência, enquanto a força dos ataques é definida pela velocidade e peso.
+  Em **Pokémon: Dynamics**, o **HP** e o **ataque** de cada Pokémon são calculados com base no **peso** e **tamanho** do Pokémon. Pokémon mais pesados terão maior HP, enquanto a força dos ataques físicos é definida pela velocidade e peso.
 
 - **Ambientes Interativos**  
   A localização influencia o desempenho dos Pokémon. Pokémon aquáticos têm vantagens na água, enquanto Pokémon voadores dominam os céus. Pokémon terrestres se adaptam melhor ao solo. Isso traz uma camada extra de estratégia nas batalhas.
