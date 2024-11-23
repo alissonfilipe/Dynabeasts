@@ -1,9 +1,19 @@
 # **Jogo Dynabeasts**
 
-**Dynabeasts** é uma nova e empolgante experiência no mundo dos jogos Pokémon, onde as mecânicas tradicionais são desafiadas por princípios de física e biologia realistas. O jogo foi projetado para oferecer uma abordagem mais estratégica e imersiva, levando em conta o tamanho, peso, e o ambiente dos Pokémon, redefinindo como as batalhas e interações acontecem.
 **MUDANÇA DE PLANOS**
 - pronunciamento dia 23/11/2024
-inicialmente a idéia era essa porém eu percebi que tinha a capacidade de criar o meu próprio jogo sem ter que usar os pokêmons e correr o risco de sofrer algum tipo de processo justamente porque seria muito tempo perdido que não seria aproveitado nem pelos desenvolvedores nem pela comunidade que gosta do estilo de jogo que gosta dos monstrinhos que gosta de jogos competivivos e que o pokêmon não atende isso, na verdade a nitendo deixa por muitas vezes os fãns da franquia de mãos abanando e por isso preciso de um idéia de minha propriedade intelectual e também sem fins lucrativos ainda não sei se vou continuar com essa mesma licensa até porque até então eu só estou tentando organizar as minhas idéias para poder desenvolver o jogo, realmente criar uma documentação externsa sobre o jogo para depois começar a desenvolver ele sendo que ainda não decidi que tecnologia usar.
+inicialmente a idéia era hack room de pok~emon porém eu percebi que tinha a capacidade de criar o meu próprio jogo sem ter que usar os pokêmons e correr o risco de sofrer algum tipo de processo justamente porque seria muito tempo perdido que não seria aproveitado nem pelos desenvolvedores nem pela comunidade que gosta do estilo de jogo que gosta dos monstrinhos que gosta de jogos competivivos e que o pokêmon não atende isso, na verdade a nitendo deixa por muitas vezes os fãns da franquia de mãos abanando e por isso preciso de um idéia de minha propriedade intelectual e também sem fins lucrativos ainda não sei se vou continuar com essa mesma licensa até porque até então eu só estou tentando organizar as minhas idéias para poder desenvolver o jogo, realmente criar uma documentação externsa sobre o jogo para depois começar a desenvolver ele sendo que ainda não decidi que tecnologia usar.
+as batalhas pokêmon são em turno e as vezes são muito cansativas e repetitivas, não é instigante afim de resolver esse problema eu decidi criar dois tipos diferentes de batalhas e não adotar as batalhas de turno justamente por cansar bastante, o que eu tive de idéia são duas batalhas diferentes
+O que? <br>
+duas batalhas diferentes??? <br>
+sim pois as batalhas no pokêmon acaba sendo algo muito chato pois as vezes você está querendo ir para um lugar e é atacado por um pokêmon fraco que você vai ser obrigado a batalhar com ele se for um treinador o que deixa a aventura muito chata.
+A solução para esse problema que eu enventei seria no momento de aventura e exploração do jogo você batalharia contra as criaturas de uma forma mais simplificada que não seja tão chata assim, a forma foi um pouco parecida com as formas dos jogos brawl stars, LOL e entre outros que você controla um personagem que tem alguns ataques o que compbina perfeitamente com isso no momento de explorar uma dangeun por exemplo, sem ter que ficar mudando de tela o tempo todo.
+O outro modo de batalha foi baseado na quebra de espectativa em relação as batalhas que tivemos nos jogos, a evolução foi realmente muito ruim, pois queriamos batalhas mais realistas ou parecidas com o anime e que não foi colocada nos jogos.
+Esse estilo de batalha vai ser focado principalmente no competitivo seria um estilo 2d para a grande maioria dos aparelhos suportarem e também para que a vitória dependa mais da abilidade do jogador do que de um bom ataque/pokêmon ou sorte. essa batalha foi inspirada em jogos como Street Fighter que apresenta um competitivo absurdo
+POR QUE NÃO USAR O MODELO DO Street Fighter?
+fazer esse tipo de batalha no jogo para qualquer coisa que te atacar seria insignificante e cansativo e estressante já que muitas vezes você andará por um ambiente caótico e é justamnete nessa ambinete que o outro modelo se encaixa tão bem.
+ESPERO QUE AS PESSOAS NÃO ESTRANEHM A DIFERENÇA DE MODELOS DE LUTAS
+
 
 
 **IDÉIAS**
