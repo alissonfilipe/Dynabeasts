@@ -1,6 +1,9 @@
 # **Pokémon: Dynamics**
 
 **Pokémon: Dynamics** é uma nova e empolgante experiência no mundo dos jogos Pokémon, onde as mecânicas tradicionais são desafiadas por princípios de física e biologia realistas. O jogo foi projetado para oferecer uma abordagem mais estratégica e imersiva, levando em conta o tamanho, peso, e o ambiente dos Pokémon, redefinindo como as batalhas e interações acontecem.
+**MUDANÇA DE PLANOS**
+- pronunciamento dia 23/11/2024
+inicialmente a idéia era essa porém eu percebi que tinha a capacidade de criar o meu próprio jogo sem ter que usar os pokêmons e correr o risco de sofrer algum tipo de processo justamente porque seria muito tempo perdido que não seria aproveitado nem pelos desenvolvedores nem pela comunidade que gosta do estilo de jogo que gosta dos monstrinhos que gosta de jogos competivivos e que o pokêmon não atende isso, na verdade a nitendo deixa por muitas vezes os fãns da franquia de mãos abanando e por isso preciso de um idéia de minha propriedade intelectual e também sem fins lucrativos ainda não sei se vou continuar com essa mesma licensa até porque até então eu só estou tentando organizar as minhas idéias para poder desenvolver o jogo, realmente criar uma documentação externsa sobre o jogo para depois começar a desenvolver ele sendo que ainda não decidi que tecnologia usar.
 
 ## **Características Principais**
 
@@ -16,8 +19,12 @@
 - **Ataques Dinâmicos e Estratégicos**  
   A **força dos ataques** é determinada por cálculos envolvendo o peso e a velocidade do Pokémon. Isso cria uma nova dinâmica nas batalhas, onde a escolha de Pokémon e a estratégia de combate se tornam mais desafiadoras e recompensadoras.
 
+- **Distâncias diferentes**
+  vai existir ataques e cada ataque pode ser desde `curta`, `media-curta`, `media`, `media-longa` e `longa` vou explicar como deveria funcionar essa lógica
+
 - **Contribuições Abertas e Acessibilidade**  
   O jogo é desenvolvido de forma aberta, permitindo que qualquer um contribua, modifique e compartilhe a criação. A colaboração é incentivada, e as contribuições são bem-vindas! No entanto, o projeto não permite uso comercial ou a criação de forks privados para fins de venda.
+  Uma coisa que quero mudar é que esse jogo assim que for finalizado na sua versão beta ele deve ficar público para dowload em dispositivos móveis e computador, mas continua sem fins lucrativos
 
 ---
 
