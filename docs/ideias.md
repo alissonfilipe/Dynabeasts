@@ -25,5 +25,4 @@ ritual com possa d'água oferecendo moedas para mandar um vídeo que pode vir da
 # criptomoedas
 podem ser mandadas para fora do jogo mas nunca vai poder entrar outra moeda dentro do jogo e todas as compras do jogo seram feitas com essa criptomoedas
 
-# colocar o máximo de prestação de serviços e produtos reais dentro do jogo
-[serviços e produtos](caminho/do/arquivo.md)
+
