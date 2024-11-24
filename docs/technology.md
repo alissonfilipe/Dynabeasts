@@ -3,7 +3,7 @@
 Este arquivo discute as tecnologias que serão utilizadas no desenvolvimento do jogo **Dynabeasts**, focando na criação de um RPG com mecânicas de exploração, combate e integração com criptomoedas. O objetivo é construir um jogo multiplataforma, acessível em diferentes sistemas operacionais e dispositivos, enquanto se integra ao mercado de criptomoedas e blockchain. A seguir, exploraremos algumas das opções de ferramentas e tecnologias que podem ser adotadas para este projeto.
 
 # tabela
-![alt text](../assets/tabela.png)
+![alt text](./assets/tabela.png)
 
 ## 1. **Unity Engine**
 
