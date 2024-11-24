@@ -40,6 +40,12 @@ Acesse os detalhes técnicos e a visão completa do projeto:
 
 ---
 
+## 📜 Contribuidores
+
+Veja a lista completa de contribuidores [aqui](/CONTRIBUTORS.md).
+
+---
+
 ## 🤝 Como Contribuir
 1. Clone o repositório:  
    ```bash
