@@ -2,11 +2,14 @@
 
 ![Banner do Dynabeasts](./assets/banner.png)
 
-**Dynabeasts** é um jogo 2D multiplataforma que reimagina os jogos de batalhas de criaturas com duas mecânicas únicas:  
+**Dynabeasts** é um jogo 2D multiplataforma que reimagina os jogos de batalhas de criaturas e exploração com duas mecânicas únicas:  
 - ⚔️ **Batalhas Competitivas** inspiradas em Street Fighter.  
 - 🗺️ **Exploração Dinâmica** no estilo de moba.
 
-🎯 **Objetivo**: Criar uma experiência instigante e estratégica, onde habilidade é mais importante que sorte.  
+🎯 **Objetivos**: 
+- Criar uma aventura instigante de mundo aberto
+- batalhas estratégicas e divertidas, onde habilidade é mais importante que sorte.
+- jogo com `NFT` e criptomoedas com mercado e competições entre os outros jogadores  
 
 ---
 
