@@ -9,7 +9,7 @@
 
 ### 🎨 Designers
 - **[Alisson Filipe](https://github.com/alissonfilipe)** - Criação de personagens e ilustrações.
-- **[Gustavo Cardoso](https://github.com/alissonfilipe)** - ilustrações.
+- **[Gustavo Cardoso](https://www.instagram.com/gustavo7mc/)** - ilustrações.
 
 ### 📝 Documentação
 - **[Alisson Filipe](https://github.com/alissonfilipe)** - Estruturação e redação da documentação do projeto.
