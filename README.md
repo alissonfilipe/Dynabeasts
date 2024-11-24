@@ -9,7 +9,10 @@
 🎯 **Objetivos**: 
 - Criar uma aventura instigante de mundo aberto
 - batalhas estratégicas e divertidas, onde habilidade é mais importante que sorte.
-- jogo com `NFT` e `criptomoedas` com mercado e competições entre os outros jogadores  
+- jogo com `NFT` e `criptomoedas` com mercado e competições entre os outros jogadores
+- coletar recursos, contruir, crafitar
+- possibilidade de torneios e x competições
+- jogo capaz de atribuir valor na vida das pessoas
 
 ---
 
