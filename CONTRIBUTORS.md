@@ -9,11 +9,16 @@
 
 ### 🎨 Designers
 - **[Alisson Filipe](https://github.com/alissonfilipe)** - Criação de personagens e ilustrações.
-- **[Gustavo Cardoso](https://www.instagram.com/gustavo7mc/)** - ilustrações.
+- **[Gustavo Cardoso](https://www.instagram.com/gustavo7mc/)** - Criação de personagens e ilustrações.
 
 ### 📝 Documentação
 - **[Alisson Filipe](https://github.com/alissonfilipe)** - Estruturação e redação da documentação do projeto.
 
 ---
+
+
+### 🙌 Agradecimentos 
+**[Gustavo Cardoso](https://www.instagram.com/gustavo7mc/)**
+Agradeço pela ajuda da idéia do urubu-do-pix e pelo desing do cabeça de abobora
 
 Obrigado a todos que participam para tornar este projeto uma realidade!
