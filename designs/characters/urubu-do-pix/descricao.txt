@@ -6,3 +6,4 @@ o principal do urubu do pix é voar e pegar itens
 mas se ele for o teu amigo ele pode pegar itens para você
 e você pode até ensinar ele a pegar determinados itens por ele ser mais rápido
 ele só pode segurar itens até um tamanho x e peso y 
+urubu do pix dropa penas
